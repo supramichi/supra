@@ -1,7 +1,9 @@
 \babel@toc {ngerman}{}
-\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}% 
-\contentsline {chapter}{\numberline {2}Vorbereitung}{4}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Theoretische Grundlagen}{4}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}BCS-Theorie}{4}{subsection.2.1.1}% 
-\contentsline {chapter}{\numberline {3}Versuchsdurchf\IeC {\"u}hrung}{5}{chapter.3}% 
-\contentsline {chapter}{\numberline {4}Fazit}{6}{chapter.4}% 
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Vorbereitung}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Theoretische Grundlagen}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Einteilung von Supraleitern}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}BCS-Theorie}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{\nonumberline Cooper-Paare}{4}{section*.2}
+\contentsline {chapter}{\numberline {3}Versuchsdurchf\IeC {\"u}hrung}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}Fazit}{6}{chapter.4}
